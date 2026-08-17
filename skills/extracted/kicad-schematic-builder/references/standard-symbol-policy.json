@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "resistor_style": "iec",
+  "candidate_similarity_threshold": 0.88,
+  "mandatory_standard_prefixes": [
+    "R",
+    "C",
+    "D",
+    "Q",
+    "L",
+    "FB",
+    "F",
+    "Y",
+    "X",
+    "SW",
+    "J",
+    "H",
+    "MH",
+    "TP"
+  ],
+  "iec_resistor_symbols": [
+    "Device:R",
+    "Device:R_Small"
+  ],
+  "us_resistor_symbols": [
+    "Device:R_US",
+    "Device:R_US_Small"
+  ]
+}

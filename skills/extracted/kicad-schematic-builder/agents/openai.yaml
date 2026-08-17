@@ -1,0 +1,4 @@
+interface:
+  display_name: "KiCad 原理图构建器"
+  short_description: "按任务规模创建或审计 KiCad 原理图，检查标准符号、电气连接与视觉质量"
+  default_prompt: "使用 $kicad-schematic-builder 选择合适的任务模式和审计 profile，优先采用 KiCad 标准符号，并检查符号源文件、ERC、网络和视觉布局。"
